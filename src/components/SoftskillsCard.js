@@ -23,13 +23,7 @@ const SoftskillsCard = () => {
                     <h4>Motivation</h4>
                 </div>
                 <div className="grid-item-soft">
-                    <h4>Verantwortungsbewusstsein</h4>
-                </div>
-                <div className="grid-item-soft">
                     <h4>Hilfsbereitschaft</h4>
-                </div>
-                <div className="grid-item-soft">
-                    <h4>Ehrgeiz</h4>
                 </div>
             </div>
         </animated.div>

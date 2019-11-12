@@ -16,7 +16,7 @@ const AboutMeCard = () => {
             <div className="verticalFlexWrapper">
                 <img src={myPic}/>
                 <ul>
-                    <li>Nationalität malisch, deutsch</li>
+                    <li>malisch</li>
                     <li>Abitur 2016</li>
                     <li>Auslandsaufenthalt in Mali</li>
                     <li>Duales Studium ab Oktober 2017</li>
